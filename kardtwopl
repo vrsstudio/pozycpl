@@ -1,8 +1,8 @@
 [{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/mastermnxx.png",
-    "company_name": "Karta World Elite Mastercard",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/karta_platinupl.png",
+    "company_name": "Karta Platinum Mastercard",
     "loan_amount":"от 1 000 до 100 000 zł",
-   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-world-elite-mastercard.html"
+   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-platinum-mastercard.html"
   }
 ,
 
@@ -11,6 +11,14 @@
     "company_name": "Karta Gold Mastercard",
     "loan_amount":"от 1 500 до 200 000 zł",
    "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-gold-mastercard.html"
+  }
+,
+
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/karta_worldpl.png",
+    "company_name": "Karta Platinum Mastercard",
+    "loan_amount":"от 1 000 до 300 000 zł",
+   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-world-elite-mastercard.html"
   }
   
 ]
