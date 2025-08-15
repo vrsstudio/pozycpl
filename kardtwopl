@@ -1,16 +1,16 @@
 [{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/elitcardua.png",
-    "company_name": "Кредитний ліміт до 300 000 гривень",
-    "loan_amount":"от 1 000 до 100 000 ₴",
-   "url": "https://bankalliance.ua/privatebanking"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/mastermnxx.png",
+    "company_name": "Karta World Elite Mastercard",
+    "loan_amount":"от 1 000 до 100 000 zł",
+   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-world-elite-mastercard.html"
   }
 ,
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Startovakartua.png",
-    "company_name": "Стартова Дебітна Картка",
-    "loan_amount":"от 2 000 до 300 000 ₴",
-   "url": "https://alb.ua/personal/credit_cards"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/karta_goldpl.png",
+    "company_name": "Karta Gold Mastercard",
+    "loan_amount":"от 1 500 до 200 000 zł",
+   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-gold-mastercard.html"
   }
   
 ]
