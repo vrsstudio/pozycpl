@@ -1,11 +1,11 @@
 [
 
 {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/smartpozych.png",
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
    "company_name":"Dobre warunki kredytowe",
  "loan_amount": "do 15 000 pln",
 "age": "Od 18 lat",
- "url": "https://appstopcredits.online/smartpozyczka-pl/"
+ "url": "https://tds.pdl-profit.com/h/1rbl6884e316d339b?subid2=s"
 }
     
  ,
@@ -14,9 +14,9 @@
  {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/netgotovka.png",   
  "company_name":"Prosto, szybko, online",
-"loan_amount": "do 7 000 pln",
+"loan_amount": "do 5 000 pln",
 "age": "Od 18 lat",
- "url": "https://appstopcredits.online/net-gotowka-pl/"
+ "url": "https://tds.pdl-profit.com/h/1qt96884e338b62f7?subid2=s"
 }
    
 ,
@@ -25,7 +25,7 @@
  "company_name":"Rabat do 90% na pierwszą pożyczkę",
 "loan_amount": "do 10 000 pln",
 "age": "Od 18 lat",
- "url": "https://appstopcredits.online/kredytok-pl/"
+ "url": "https://tds.pdl-profit.com/h/1qr96884e33b48ccf?subid2=s"
 }
 
 ,
@@ -35,7 +35,7 @@
  "company_name":"Pieniądze przed wypłatą w 15 minut",
 "loan_amount": "do 15 000 pln",
 "age": "Od 18 lat",
- "url": "https://appstopcredits.online/pozyczkaplus-pl/"
+ "url": "https://tds.pdl-profit.com/h/1r4q6884e31d9d2db?subid2=s"
 }
 ,
  {
@@ -43,7 +43,14 @@
  "company_name":"Pierwsza pożyczka 0,01%",
 "loan_amount": "do 15 000 pln",
 "age": "Od 18 lat",
- "url": "https://appstopcredits.online/oros-pl/"
+ "url": "https://tds.pdl-profit.com/h/1r4q6884e31d9d2db?subid2=s"
 }
-
+,
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/ekassa.png",   
+ "company_name":"Pierwsza pożyczka 0,01%",
+"loan_amount": "do 15 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1r7t6884e31ab6948?subid2=s"
+}
 ]
