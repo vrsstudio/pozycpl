@@ -1,4 +1,27 @@
 [
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/oros.png",   
+ "company_name":"Pierwsza pożyczka 0,01%",
+"loan_amount": "do 15 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1q9f6884e33de94f7?subid2=s"
+}
+,
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/smartpozych.png",   
+ "company_name":"Pieniądze przed wypłatą w 15 minut",
+"loan_amount": "do 15 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1r4n6884e32077444?subid2=s"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/pozyckaplus.png",   
+ "company_name":"Pieniądze przed wypłatą w 15 minut",
+"loan_amount": "do 15 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1r4q6884e31d9d2db?subid2=s"
+}
+,
 
 {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
@@ -20,31 +43,7 @@
 }
    
 ,
-
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/pozyckaplus.png",   
- "company_name":"Pieniądze przed wypłatą w 15 minut",
-"loan_amount": "do 15 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1r4q6884e31d9d2db?subid2=s"
-}
-,
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/oros.png",   
- "company_name":"Pierwsza pożyczka 0,01%",
-"loan_amount": "do 15 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1q9f6884e33de94f7?subid2=s"
-}
-,
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/smartpozych.png",   
- "company_name":"Pieniądze przed wypłatą w 15 minut",
-"loan_amount": "do 15 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1r4n6884e32077444?subid2=s"
-},
-
+ 
 {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/extraportfel.png",   
  "company_name":"Pieniądze przed wypłatą w 15 minut",
