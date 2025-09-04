@@ -52,5 +52,27 @@
 "loan_amount": "do 15 000 pln",
 "age": "Od 18 lat",
  "url": "https://tds.pdl-profit.com/h/1r7t6884e31ab6948?subid2=s"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/smartpozych.png",   
+ "company_name":"Pieniądze przed wypłatą w 15 minut",
+"loan_amount": "do 15 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1r4n6884e32077444?subid2=s"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/extraportfel.png",   
+ "company_name":"Pieniądze przed wypłatą w 15 minut",
+"loan_amount": "do 12 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1r2e6884e3318757b?subid2=s"
+},
+ {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/avafin.png",   
+ "company_name":"Rabat do 90% na pierwszą pożyczkę",
+"loan_amount": "do 12 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1r2d6884e333d779c?subid2=s"
 }
+
 ]
