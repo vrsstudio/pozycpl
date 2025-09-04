@@ -1,16 +1,26 @@
-[{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/prepaidpl.png",
-    "company_name": "Karty przedpłacone Mastercard",
-    "loan_amount":"от 1 000 до 50 000 zł",
-   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-przedplacone-mastercard.html"
-  }
-,
+[
+
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/karta_worldpll.png",
-    "company_name": "Karta World Mastercard",
-    "loan_amount":"от 1 500 до 200 000 zł",
-   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-world-mastercard.html"
-  }
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/ekassa.png",   
+ "company_name":"Pierwsza pożyczka 0,01%",
+"loan_amount": "do 15 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1r7t6884e31ab6948?subid2=s"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/avafin.png",   
+ "company_name":"Rabat do 90% na pierwszą pożyczkę",
+"loan_amount": "do 12 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1r2d6884e333d779c?subid2=s"
+},
+ {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kreditokpl.png",   
+ "company_name":"Rabat do 90% na pierwszą pożyczkę",
+"loan_amount": "do 10 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1qr96884e33b48ccf?subid2=s"
+}
   
 ]
