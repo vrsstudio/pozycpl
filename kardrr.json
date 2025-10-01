@@ -1,35 +1,36 @@
 [
   {
-	"name": "WORLD ELITE Masterсard",
-	"price_info": "От 3% До 500 000 руб",
+	"name": "Кредитная карта UnionPay",
+	"price_info": "От 1% До 1 000 000 руб",
     "image_url": "http://zaem-online.kz/img/alfa.png",
-    "sum": "3000 - 300 000",
+    "sum": "3000 - 500 000",
 	"term": "5 - 100",
 	"percent": "1,03% - 1,50%",
-    "url": "https://bankalliance.ua/privatebanking",
+    "url": "https://www.rshb.ru/natural/creditcards/svoya",
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   
   {
-	"name": "Стартова Дебітна Картка",
+	"name": "Кредитная карта 120 дней без процентов",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "1000 - 300 000",
 	"term": "5 - 100",
-	"percent": "1,10% - 1,55%",
-    "url": "https://alb.ua/personal/credit_cards",
+	"percent": "1,01% - 1,57%",
+    "url": "https://uralsib.ru/kreditnye-karty/120-dney?anchor=form",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   },
 	{
-	"name": "Кредитна картка RADAcard",
-	"price_info": "От 5% До 300 000 руб",
+	"name": "Кредитная карта 180 дней без %",
+	"price_info": "От 1% До 1 000 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "3000 - 100 000",
 	"term": "5 - 100",
-	"percent": "1,01% - 1,55%",
-    "url": "https://www.radabank.com.ua/platizhni-kartky/online-kartka-radacard",
+	"percent": "1,01% - 1,25%",
+    "url": "https://sovcombank.ru/cards/credit-cards/180-dnej-bez-procentov",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
 ]
+
 
 
