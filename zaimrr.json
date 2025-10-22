@@ -1,15 +1,15 @@
 [
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sovkobank.png",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srazuz.jpg",
     "name": "Amigo",
     "rating": 5,
     "age": "18-70",
-    "percent": "1%",
-    "sum_one": "до 350 000 ₽",
+    "percent": "0%",
+    "sum_one": "до 100 000 ₽",
     "sum_min": "от 500 ₽",
     "days_info": "90–360 дней",
     "term_to": "360",
-    "url": "https://sovcombank.ru/credits/cash",
+    "url": "https://trkleads.ru/click/49b6f59570becd0c9d9a772afb1302ad?aff_sub1=miko&erid=2W5zFGDsBp4",
     "email": "info@amigo.com.ua",
     "address": "04107, м. Київ, вул. Багговутівська, 17-21",
     "work_time": "24/7 онлайн, служба поддержки 09:00-20:00",
@@ -22,59 +22,49 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
-  {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditplusru.png",
-    "name": "Loan+",
+ {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
+    "name": "Amigo",
     "rating": 5,
-    "age": "18-65",
-    "percent": "0,1%",
-    "sum_one": "до 30 000 ₽",
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 100 000 ₽",
     "sum_min": "от 500 ₽",
     "days_info": "90–360 дней",
-    "term_to": "80",
-    "url": "https://appstopcredits.online/creditplus/",
-    "email": "support@loanplus.com.ua",
-    "address": "04080, м. Київ, вул. Константинівська, 75, офіс 601А",
-    "work_time": "24/7 онлайн",
-    "license": "Лицензия НБУ (ООО «Финансовая компания Абекор»), переоформлена 12.07.2024",
-    "scorost": "5-15 минут",
-    "dokuments": "паспорт + ИНН + карта + телефон",
-    "sposob": "онлайн",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=miko",
+    "email": "info@amigo.com.ua",
+    "address": "04107, м. Київ, вул. Багговутівська, 17-21",
+    "work_time": "24/7 онлайн, служба поддержки 09:00-20:00",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт + ИНН",
+    "sposob": "онлайн, через сайт или мобильное приложение",
     "nalichnie": false,
     "nakartu": true,
     "zafiveminut": true,
     "kruglosutochno": true
   },
-  {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/dozpru.png",
-    "name": "Miloan",
+ {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/privet-sosed.png",
+    "name": "Amigo",
     "rating": 5,
-    "age": "18–70",
-    "percent": "0,01%",
-    "sum_one": "до 25 000 ₽",
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
     "sum_min": "от 500 ₽",
-    "days_info": "90 до 360 дней",
+    "days_info": "90–360 дней",
     "term_to": "360",
-    "url": "https://www.rshb.ru/natural/loans/all-goals",
-    "email": "info@miloan.ua",
-    "address": null,
-    "work_time": "24/7 онлайн, поддержка 09:00–20:00",
-    "license": "ИК № 176 от 14.07.2016",
-    "scorost": "до 15 минут (повторный — до 5 минут)",
+    "url": "https://trkleads.ru/click/5e145df945c52c6718bc45a9f8050cde?aff_sub1=miko&erid=2W5zFJErUKA",
+    "email": "info@amigo.com.ua",
+    "address": "04107, м. Київ, вул. Багговутівська, 17-21",
+    "work_time": "24/7 онлайн, служба поддержки 09:00-20:00",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
     "dokuments": "паспорт + ИНН",
-    "sposob": "онлайн (на карту)",
+    "sposob": "онлайн, через сайт или мобильное приложение",
     "nalichnie": false,
     "nakartu": true,
     "zafiveminut": true,
     "kruglosutochno": true
-  }
- 
-]
-
-
-
-
-
-
-
-
+  }]
