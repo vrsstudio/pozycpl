@@ -1,5 +1,5 @@
 [
-  {
+{
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srazuz.jpg",
     "name": "Amigo",
     "rating": 5,
@@ -22,6 +22,11 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
+
+
+
+
+
  {
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
     "name": "Amigo",
@@ -45,6 +50,10 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
+
+
+
+
  {
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/privet-sosed.png",
     "name": "Amigo",
