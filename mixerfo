@@ -1,33 +1,31 @@
-
 [
   {
     "logo": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
-    "company_name": "еКапуста",
-    "company_full": "еКапуста",
-    "loan_amount": "30 000 ₽",
-    "percent": "от 0% в день",
-    "time": "до 5 минут",
+    "company_name": "eKapusta",
+    "company_full": "eKapusta",
+    "loan_amount": "30 000 $",
+    "percent": "desde 0% por día",
+    "time": "hasta 5 minutos",
     "badge": "Compañía de confianza",
     "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=roiks"
   },
   {
     "logo": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
-    "company_name": "ВебЗайм",
-    "company_full": "ВебЗайм",
-    "loan_amount": "до 30 000 ₽",
-    "percent": "от 0% в день",
-    "time": "до 3 минут",
+    "company_name": "WebZaim",
+    "company_full": "WebZaim",
+    "loan_amount": "hasta 30 000 $",
+    "percent": "desde 0% por día",
+    "time": "hasta 3 minutos",
     "badge": "Elección popular",
     "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=roiks"
   },
-
-{
+  {
     "logo": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
-    "company_name": "Лайм Займ",
-    "company_full": "Лайм Займ",
-    "loan_amount": "до 100 000 ₽",
-    "percent": "от 0% в день",
-    "time": "до 25 минут",
+    "company_name": "Lime Zaim",
+    "company_full": "Lime Zaim",
+    "loan_amount": "hasta 100 000 $",
+    "percent": "desde 0% por día",
+    "time": "hasta 25 minutos",
     "badge": "Avalado por el tiempo",
     "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=roiks"
   }
