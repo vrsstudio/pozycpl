@@ -1,6 +1,6 @@
 [
   {
-    "logo": "https://raw.githubusercontent.com/alexofyou/images/main/scotiabank-lo.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/scotiabank-lo.png",
     "company_name": "scotiabank",
     "company_full": "scotiabank",
     "loan_amount": "500 000 $",
@@ -10,7 +10,7 @@
     "url": "https://www.scotiabank.com.mx/personas/creditos/prestamos-personales/prestamo-personal-scotiabank.aspx"
   },
   {
-    "logo": "https://raw.githubusercontent.com/alexofyou/images/main/Banamex.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Banamex.png",
     "company_name": "banamex",
     "company_full": "banamex",
     "loan_amount": "hasta 750 000 $",
@@ -20,7 +20,7 @@
     "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
   },
   {
-    "logo": "https://raw.githubusercontent.com/alexofyou/images/main/logo_hsbc.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logo_hsbc.png",
     "company_name": "HSBC Mexico",
     "company_full": "HSBC Mexico",
     "loan_amount": "hasta 1 200 000 mxn",
