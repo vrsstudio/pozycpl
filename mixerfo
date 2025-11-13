@@ -2,9 +2,9 @@
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/scotiabank-lo.png",
     "company_name": "scotiabank",
-    "company_full": "scotiabank",
-    "loan_amount": "500 000 $",
-    "percent": "desde 0% por día",
+    "company_full": "Scotiabank México",
+    "loan_amount": "hasta 500 000 MXN",
+    "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
     "badge": "Compañía de confianza",
     "url": "https://www.scotiabank.com.mx/personas/creditos/prestamos-personales/prestamo-personal-scotiabank.aspx"
@@ -12,9 +12,9 @@
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Banamex.png",
     "company_name": "banamex",
-    "company_full": "banamex",
-    "loan_amount": "hasta 750 000 $",
-    "percent": "desde 0% por día",
+    "company_full": "Banamex México",
+    "loan_amount": "hasta 750 000 MXN",
+    "percent": "desde 0% mensual",
     "time": "hasta 7 minutos",
     "badge": "Elección popular",
     "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
@@ -22,22 +22,11 @@
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logo_hsbc.png",
     "company_name": "HSBC Mexico",
-    "company_full": "HSBC Mexico",
-    "loan_amount": "hasta 1 200 000 mxn",
-    "percent": "desde 1.7% por día",
-    "time": "hasta 25 minutos",
-    "badge": "Avalado por el tiempo",
-    "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
-},
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logo_hsbc.png",
-    "company_name": "HSBC Mexico",
-    "company_full": "HSBC Mexico",
-    "loan_amount": "hasta 1 200 000 mxn",
-    "percent": "desde 1.7% por día",
+    "company_full": "HSBC México",
+    "loan_amount": "hasta 1 200 000 MXN",
+    "percent": "desde 1.7% mensual",
     "time": "hasta 25 minutos",
     "badge": "Avalado por el tiempo",
     "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
   }
-  
 ]
