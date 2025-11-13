@@ -1,8 +1,8 @@
 [
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/alvos.png",
-    "company_name": "scotiabank",
-    "company_full": "Scotiabank México",
+    "company_name": "Alvos",
+    "company_full": "Alvos México",
     "loan_amount": "hasta 8 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
@@ -11,8 +11,8 @@
   },
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/fiestamx.png",
-    "company_name": "banamex",
-    "company_full": "Banamex México",
+    "company_name": "Fiesta Crédito",
+    "company_full": "Fiesta Crédito México",
     "loan_amount": "hasta 150 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 7 minutos",
@@ -21,8 +21,8 @@
   },
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
-    "company_name": "HSBC Mexico",
-    "company_full": "HSBC México",
+    "company_name": "Finpug",
+    "company_full": "Finpug México",
     "loan_amount": "hasta 30 000 MXN",
     "percent": "desde 0.7% mensual",
     "time": "hasta 25 minutos",
