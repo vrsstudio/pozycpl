@@ -28,5 +28,16 @@
     "time": "hasta 25 minutos",
     "badge": "Avalado por el tiempo",
     "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+},
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logo_hsbc.png",
+    "company_name": "HSBC Mexico",
+    "company_full": "HSBC Mexico",
+    "loan_amount": "hasta 1 200 000 mxn",
+    "percent": "desde 1.7% por día",
+    "time": "hasta 25 minutos",
+    "badge": "Avalado por el tiempo",
+    "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
   }
+  
 ]
