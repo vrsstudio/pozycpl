@@ -28,5 +28,35 @@
     "time": "hasta 25 minutos",
     "badge": "Avalado por el tiempo",
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/turbopesso.png",
+    "company_name": "TurboPeso",
+    "company_full": "TurboPeso México",
+    "loan_amount": "hasta 30 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Avalado por el tiempo",
+    "url": "https://tds.pdl-profit.com/h/1rcs6886099735b84"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finolomx.png",
+    "company_name": "Finloo",
+    "company_full": "Finloo Crédito México",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 7 minutos",
+    "badge": "Elección popular",
+    "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/solcreditmx.png",
+    "company_name": "Solcredito",
+    "company_full": "Solcredito México",
+    "loan_amount": "hasta 100 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Compañía de confianza",
+    "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
   }
 ]
