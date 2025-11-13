@@ -1,32 +1,32 @@
 [
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/scotiabank-lo.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/alvos.png",
     "company_name": "scotiabank",
     "company_full": "Scotiabank México",
-    "loan_amount": "hasta 500 000 MXN",
+    "loan_amount": "hasta 8 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
     "badge": "Compañía de confianza",
-    "url": "https://www.scotiabank.com.mx/personas/creditos/prestamos-personales/prestamo-personal-scotiabank.aspx"
+    "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0"
   },
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Banamex.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/fiestamx.png",
     "company_name": "banamex",
     "company_full": "Banamex México",
-    "loan_amount": "hasta 750 000 MXN",
+    "loan_amount": "hasta 150 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 7 minutos",
     "badge": "Elección popular",
-    "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+    "url": "https://tds.pdl-profit.com/h/1r2v6891ae7fa7931"
   },
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logo_hsbc.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
     "company_name": "HSBC Mexico",
     "company_full": "HSBC México",
-    "loan_amount": "hasta 1 200 000 MXN",
-    "percent": "desde 1.7% mensual",
+    "loan_amount": "hasta 30 000 MXN",
+    "percent": "desde 0.7% mensual",
     "time": "hasta 25 minutos",
     "badge": "Avalado por el tiempo",
-    "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   }
 ]
