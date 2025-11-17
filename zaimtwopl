@@ -1,56 +1,31 @@
 [
 {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/oros.png",   
- "company_name":"Pierwsza pożyczka 0,01%",
-"loan_amount": "do 15 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1q9f6884e33de94f7?subid2=s"
-}
-,
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/smartpozych.png",   
- "company_name":"Pieniądze przed wypłatą w 15 minut",
-"loan_amount": "do 15 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1r4n6884e32077444?subid2=s"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/pozyckaplus.png",   
- "company_name":"Pieniądze przed wypłatą w 15 minut",
-"loan_amount": "do 15 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1r4q6884e31d9d2db?subid2=s"
-}
-,
-
-{
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
-   "company_name":"Dobre warunki kredytowe",
+   "company_name":"Szybka kasa online!",
  "loan_amount": "do 15 000 pln",
 "age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1rbl6884e316d339b?subid2=s"
-}
-    
- ,
-
-
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/netgotovka.png",   
- "company_name":"Prosto, szybko, online",
-"loan_amount": "do 5 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1qt96884e338b62f7?subid2=s"
-}
-   
-,
- 
+ "url": "https://tds.pdl-profit.com/h/1rbl6884e316d339b"
+},
 {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/extraportfel.png",   
- "company_name":"Pieniądze przed wypłatą w 15 minut",
-"loan_amount": "do 12 000 pln",
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimoomx.png",   
+ "company_name":"Pierwsza pożyczka 0,01%",
+"loan_amount": "do 19 000 pln",
 "age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1r2e6884e3318757b?subid2=s"
+ "url": "https://tds.pdl-profit.com/h/1rjs691b0309e0a7b"
 }
- 
-
+,
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credy.lp.png",   
+ "company_name":"Pieniądze przed wypłatą w 15 minut",
+"loan_amount": "do 20 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1qb5691b0305628ae"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/binixmx.png",   
+ "company_name":"Dobre warunki kredytowe",
+"loan_amount": "do 15 000 pln",
+"age": "Od 18 lat",
+ "url": "https://tds.pdl-profit.com/h/1rlp691b030a64d48"
+}
 ]
