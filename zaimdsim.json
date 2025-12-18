@@ -1,0 +1,115 @@
+[
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
+      "name": "Банк ВТБ",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "1%",
+	"sum_one": "до 900 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "от 1 года",
+ 
+	"term_to": "365",
+   
+     "url": "https://www.vtb.ru/personal/kredit/nalichnymi/",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
+      "name": "Т‑Банк",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "1%",
+	"sum_one": "до 700 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "от 1 года",
+ 
+	"term_to": "365",
+   
+     "url": "https://www.tbank.ru/loans/cash-loan/",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",
+      "name": "ГЕНБАНК",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "1%",
+	"sum_one": "до 4 000 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "от 1 года",
+ 
+	"term_to": "365",
+   
+     "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",
+      "name": "Совкомбанк",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "1%",
+	"sum_one": "до 600 000 руб",
+		"sum_min": "до 1 000 руб",
+ "days_info": "от 1 года",
+ 
+	"term_to": "365",
+   
+     "url": "https://sovcombank.ru/credits/cash",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+ 
+]
