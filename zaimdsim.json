@@ -1,116 +1,416 @@
 [
-	{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
-      "name": "Т‑Банк",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 2 000 000 руб",
-		"sum_min": "до 1 000 руб",
- "days_info": "от 1 года",
- 
-	"term_to": "365",
-   
-     "url": "https://www.tbank.ru/loans/cash-loan/",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Работает круглосуточно",
-        "license": "Свидетельство №2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Паспорт",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
 
-
-  },
-	 {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",
-      "name": "ГЕНБАНК",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 4 000 000 руб",
-		"sum_min": "до 1 000 руб",
- "days_info": "от 1 года",
- 
-	"term_to": "365",
-   
-     "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Работает круглосуточно",
-        "license": "Свидетельство №2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Паспорт",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  },
-	{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
-      "name": "Банк ВТБ",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 1 000 000 руб",
-		"sum_min": "до 1 000 руб",
- "days_info": "от 1 года",
- 
-	"term_to": "365",
-   
-     "url": "https://www.vtb.ru/personal/kredit/nalichnymi/",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Работает круглосуточно",
-        "license": "Свидетельство №2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Паспорт",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  },
-	
  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+    "name": "MoneyMan",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 80 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=nagodza",
+    "email": "info@moneyman.ru",
+    "address": "Онлайн-сервис MoneyMan",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 5 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+    "name": "Займер",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 100 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=nagodza",
+    "email": "info@zaimer.ru",
+    "address": "Онлайн-сервис Займер",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/oness.png",
+    "name": "One Click Money",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/3db7c0a9ebba03239c71282920ce41e7?aff_sub1=nagodza&erid=2W5zFH7Qc5v",
+    "email": "info@zaimer.ru",
+    "address": "Онлайн-сервис Займер",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
+    "name": "JoyMoney",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 100 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=nagodza",
+    "email": "support@joymoney.ru",
+    "address": "Онлайн-сервис JoyMoney",
+    "work_time": "24/7 онлайн, поддержка 09:00–20:00",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+ {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
+    "name": "Logos Finance",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=nagodza",
+    "email": "support@logos.ru",
+    "address": "Онлайн-сервис Logos Finance",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",
+    "name": "Fin5",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=nagodza&erid=2W5zFHMCfMi",
+    "email": "info@zaimer.ru",
+    "address": "Онлайн-сервис Займер",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",
-      "name": "Совкомбанк",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 600 000 руб",
-		"sum_min": "до 1 000 руб",
- "days_info": "от 1 года",
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/boovd.png",
+    "name": "boostra",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 50 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/ab84af0b6a25da159e6db8927cd34a51?aff_sub1=nagodza&erid=2W5zFHyoEoJ",
+    "email": "info@zaimer.ru",
+    "address": "Онлайн-сервис Займер",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+  
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",
+    "name": "MaxCredit",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=nagodza",
+    "email": "support@maxcredit.ru",
+    "address": "Онлайн-сервис MaxCredit",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+    "name": "Быстроденьги",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0,1%",
+    "sum_one": "до 15 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=nagodza",
+    "email": "info@bistrodengi.ru",
+    "address": "Онлайн-сервис Быстроденьги",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
+    "name": "Екапуста",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=nagodza",
+    "email": "info@ekapusta.ru",
+    "address": "Онлайн-сервис Екапуста",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
  
-	"term_to": "365",
-   
-     "url": "https://sovcombank.ru/credits/cash",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Работает круглосуточно",
-        "license": "Свидетельство №2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Паспорт",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
 
 
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",
+    "name": "СрочноДеньги",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=nagodza&erid=2W5zFJkUBEY",
+    "email": "support@srochnodengi.ru",
+    "address": "Онлайн-сервис СрочноДеньги",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
+    "name": "Вива деньги",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 100 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=nagodza",
+    "email": "support@srochnodengi.ru",
+    "address": "Онлайн-сервис СрочноДеньги",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/paay.png",
+    "name": "Pay P.S.",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 15 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/c24c18f9cd89c00a8801ed88ea5c04d0?aff_sub1=nagodza&erid=2W5zFHrMVNY",
+    "email": "support@srochnodengi.ru",
+    "address": "Онлайн-сервис СрочноДеньги",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
+    "name": "Веббанкир",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 15 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/474d081f8d44e4c47f89278fc7addcb0?aff_sub1=nagodza&erid=2W5zFHHkYTA",
+    "email": "support@srochnodengi.ru",
+    "address": "Онлайн-сервис СрочноДеньги",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+ 
+
+
+
+
+  
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
+    "name": "Lime-Zaim",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 100 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=nagodza",
+    "email": "support@lime-zaim.ru",
+    "address": "Онлайн-сервис Lime",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+  
+  
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
+    "name": "Турбозайм",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 50 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=nagodza",
+    "email": "info@turbozaim.ru",
+    "address": "Онлайн-сервис Турбозайм",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
   }
- 
 ]
