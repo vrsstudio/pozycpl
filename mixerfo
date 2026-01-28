@@ -9,6 +9,16 @@
     "badge": "Avalado por el tiempo",
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kueskimx.png",
+    "company_name": "TurboPeso",
+    "company_full": "TurboPeso México",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Crédito flexible, fácil y confiable",
+    "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c"
+  },
   
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/fiestamx.png",
@@ -71,24 +81,15 @@
     "badge": "Crédito rápido sin papeleo",
     "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
   },
+
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/turbopesso.png",
-    "company_name": "TurboPeso",
-    "company_full": "TurboPeso México",
-    "loan_amount": "hasta 80 000 MXN",
-    "percent": "desde 0.1% mensual",
-    "time": "hasta 25 minutos",
-    "badge": "Crédito flexible, fácil y confiable",
-    "url": "https://tds.pdl-profit.com/h/1rcs6886099735b84"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/alvos.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finmercadomx.png",
     "company_name": "Alvos",
     "company_full": "Alvos México",
     "loan_amount": "hasta 90 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
     "badge": "Sin revisión en buró de crédito",
-    "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0"
+    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
   }
 ]
