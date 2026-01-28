@@ -11,8 +11,8 @@
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kueskimx.png",
-    "company_name": "TurboPeso",
-    "company_full": "TurboPeso México",
+    "company_name": "Kueski",
+    "company_full": "Kueski México",
     "loan_amount": "hasta 80 000 MXN",
     "percent": "desde 0.1% mensual",
     "time": "hasta 25 minutos",
@@ -53,7 +53,7 @@
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/loaneymx.png",
     "company_name": "Loaney",
-    "company_full": "Solinia México",
+    "company_full": "Loaney México",
     "loan_amount": "hasta 40 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
@@ -84,8 +84,8 @@
 
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finmercadomx.png",
-    "company_name": "Alvos",
-    "company_full": "Alvos México",
+    "company_name": "Finmercado",
+    "company_full": "Finmercado México",
     "loan_amount": "hasta 90 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
