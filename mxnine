@@ -1,39 +1,75 @@
 [
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bbvacols.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
     "name": "Dinero para cualquier propósito",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 120 000 mxn",
-    "url": "https://www.bbva.mx/personas/productos/creditos/prestamos-personales/adelanto-de-sueldo.html"
+    "sum_one": "de 1 000 a 30 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
     "name": "Tu préstamo aprobado en minutos",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 15 000 $",
-    "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+    "sum_one": "de 1 000 a 10 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
   },
  {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
     "name": "Crédito rápido sin papeleo",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 36 000 $",
-    "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+    "sum_one": "de 1 000 a 12 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kueskimx.png",
     "name": "Proceso seguro y sin comisiones ocultas",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 24 000 mxn",
-    "url": "https://www.santander.com.mx/personas/creditos-personales.html"
+    "sum_one": "de 1 000 a 50 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "name": "Sin revisión en buró de crédito",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 150 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1rim690bd23d7d845"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
+    "name": "Aprobación inmediata en minutos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 2 000 a 100 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
+    "name": "Dinero al instante en tu tarjeta",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 500 a 10 000 $",
+    "odobrenie": "Alta",
+    "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
+    "name": "Sin comprobante de ingresos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 12 000 $",
+    "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
   }
   
   
