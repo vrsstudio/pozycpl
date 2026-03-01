@@ -35,15 +35,6 @@
     "odobrenie": "Alta",
     "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
   },
- {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
-    "name": "Crédito rápido sin papeleo",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 12 000 $",
-    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
-  },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kueskimx.png",
     "name": "Proceso seguro y sin comisiones ocultas",
@@ -52,6 +43,15 @@
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 50 000 $",
     "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c"
+  },
+ {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+    "name": "Crédito rápido sin papeleo",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 12 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
