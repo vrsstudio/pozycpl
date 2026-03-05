@@ -3,11 +3,21 @@
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
     "company_name": "Finpug",
     "company_full": "Finpug México",
-    "loan_amount": "hasta 30 000 MXN",
+    "loan_amount": "hasta 60 000 MXN",
     "percent": "desde 0.1% mensual",
     "time": "hasta 25 minutos",
     "badge": "Avalado por el tiempo",
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/amigoslonmxn.png",
+    "company_name": "Amigoloans",
+    "company_full": "Amigoloans México",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Avalado por el tiempo",
+    "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kueskimx.png",
@@ -28,7 +38,27 @@
     "percent": "desde 0% mensual",
     "time": "hasta 7 minutos",
     "badge": "Dinero al instante en tu tarjeta",
-    "url": "https://tds.pdl-profit.com/h/1r2v6891ae7fa7931"
+    "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/solcreditmx.png",
+    "company_name": "Solcredito",
+    "company_full": "Solcredito México",
+    "loan_amount": "hasta 100 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Crédito rápido sin papeleo",
+    "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finmercadomx.png",
+    "company_name": "Finmercado",
+    "company_full": "Finmercado México",
+    "loan_amount": "hasta 90 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
@@ -70,26 +100,8 @@
     "time": "hasta 7 minutos",
     "badge": "Sin comprobante de ingresos",
     "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/solcreditmx.png",
-    "company_name": "Solcredito",
-    "company_full": "Solcredito México",
-    "loan_amount": "hasta 100 000 MXN",
-    "percent": "desde 0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Crédito rápido sin papeleo",
-    "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
-  },
-
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finmercadomx.png",
-    "company_name": "Finmercado",
-    "company_full": "Finmercado México",
-    "loan_amount": "hasta 90 000 MXN",
-    "percent": "desde 0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Sin revisión en buró de crédito",
-    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
   }
+
+
+
 ]
