@@ -20,17 +20,6 @@
     "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/letocredit.png",
-    "company_name": "Kueski",
-    "company_full": "Kueski México",
-    "loan_amount": "hasta 80 000 MXN",
-    "percent": "desde 0.1% mensual",
-    "time": "hasta 25 minutos",
-    "badge": "Crédito flexible, fácil y confiable",
-    "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
-  },
-  
-  {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/fiestamx.png",
     "company_name": "Fiesta Crédito",
     "company_full": "Fiesta Crédito México",
@@ -41,6 +30,26 @@
     "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
   },
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/letocredit.png",
+    "company_name": "Kueski",
+    "company_full": "Kueski México",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Crédito flexible, fácil y confiable",
+    "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/loaneymx.png",
+    "company_name": "Loaney",
+    "company_full": "Loaney México",
+    "loan_amount": "hasta 40 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
+  },
+  {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/solcreditmx.png",
     "company_name": "Solcredito",
     "company_full": "Solcredito México",
@@ -71,27 +80,16 @@
     "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lemonzamx.png",
-    "company_name": "Lemonza",
-    "company_full": "Lemonza México",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/F2MX.png",
+    "company_name": "Fia2",
+    "company_full": "Fia2 México",
     "loan_amount": "hasta 90 000 MXN",
     "percent": "desde 0.1% mensual",
     "time": "hasta 12 minutos",
     "badge": "Crédito flexible, fácil y confiable",
-    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
+    "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
   },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/loaneymx.png",
-    "company_name": "Loaney",
-    "company_full": "Loaney México",
-    "loan_amount": "hasta 40 000 MXN",
-    "percent": "desde 0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Sin revisión en buró de crédito",
-    "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
-  },
-  
-{
+  {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finolomx.png",
     "company_name": "Finloo",
     "company_full": "Finloo Crédito México",
