@@ -1,0 +1,46 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "No me aprueban el crédito: ¿qué hacer?",
+      "text": "Existen varias razones por las que una solicitud de crédito puede ser rechazada. Las más comunes son atrasos en pagos anteriores, un historial crediticio limitado o demasiadas deudas activas. Para mejorar tus posibilidades, es recomendable pagar a tiempo, reducir compromisos financieros y esperar algunos meses antes de volver a solicitar un crédito.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bloknotik.png"
+    },
+    {
+      "id": 2,
+      "title": "Cómo mejorar tu historial crediticio paso a paso",
+      "text": "El historial crediticio refleja tu comportamiento financiero. Pagar puntualmente, utilizar solo una parte de tu línea disponible y evitar múltiples solicitudes en poco tiempo ayuda a fortalecer tu perfil. La constancia es clave para acceder a mejores condiciones en el futuro.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/knigka.png"
+    },
+    {
+      "id": 3,
+      "title": "Deudas pendientes: cómo organizarlas correctamente",
+      "text": "Tener varias deudas puede generar estrés financiero. Una buena estrategia es listar tus obligaciones, priorizar las más urgentes y analizar opciones de reestructura. Un plan claro te permite recuperar el control de tus finanzas.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/olivec.png"
+    },
+    {
+      "id": 4,
+      "title": "Préstamos en línea: lo que debes revisar antes de solicitar",
+      "text": "Antes de contratar un préstamo en línea, revisa siempre el CAT, los plazos y las comisiones. Verifica que la institución esté registrada ante las autoridades correspondientes y evita ofertas que prometan resultados garantizados.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bloknotik.png"
+    },
+    {
+      "id": 5,
+      "title": "Errores comunes al solicitar un préstamo",
+      "text": "Solicitar varios créditos al mismo tiempo, no leer las condiciones o sobreestimar tu capacidad de pago son errores frecuentes. Tomar decisiones informadas reduce riesgos y te ayuda a mantener una salud financiera estable.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/knigka.png"
+    },
+    {
+      "id": 6,
+      "title": "Qué hacer si tienes retrasos en tus pagos",
+      "text": "Si enfrentas retrasos, lo mejor es actuar cuanto antes. Contactar a la institución, revisar opciones de pago y evitar nuevos compromisos puede ayudarte a minimizar el impacto en tu historial crediticio.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/olivec.png"
+    },
+    {
+      "id": 7,
+      "title": "Educación financiera: la base de mejores decisiones",
+      "text": "Comprender conceptos básicos como tasas, plazos y costos totales te permite tomar decisiones más acertadas. La educación financiera ayuda a evitar problemas de deuda y a planificar un futuro económico más estable.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/olivec.png"
+    }
+  ]
+}
