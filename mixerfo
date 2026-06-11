@@ -1,8 +1,38 @@
 [
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/F2MX.png",
+    "company_name": "Finpug",
+    "company_full": "Disponible 24/7",
+    "loan_amount": "hasta 60 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 7 minutos",
+    "badge": "Avalado por el tiempo",
+    "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/optocreditomx.png",
+    "company_name": "Finpug",
+    "company_full": "Aprobación rápida",
+    "loan_amount": "hasta 70 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Avalado por el tiempo",
+    "url": "https://tds.pdl-profit.com/h/1rqv6a2923757b218"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lemonzamx.png",
+    "company_name": "Finpug",
+    "company_full": "Proceso sencillo",
+    "loan_amount": "hasta 89 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 15 minutos",
+    "badge": "Avalado por el tiempo",
+    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
     "company_name": "Finpug",
-    "company_full": "Finpug México",
+    "company_full": "100% en línea",
     "loan_amount": "hasta 60 000 MXN",
     "percent": "desde 0.1% mensual",
     "time": "hasta 25 minutos",
@@ -12,7 +42,7 @@
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/amigoslonmxn.png",
     "company_name": "Amigoloans",
-    "company_full": "Amigoloans México",
+    "company_full": "Sin filas",
     "loan_amount": "hasta 80 000 MXN",
     "percent": "desde 0.1% mensual",
     "time": "hasta 25 minutos",
@@ -32,7 +62,7 @@
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/letocredit.png",
     "company_name": "Kueski",
-    "company_full": "Kueski México",
+    "company_full": "Solicitud rápida",
     "loan_amount": "hasta 80 000 MXN",
     "percent": "desde 0.1% mensual",
     "time": "hasta 25 minutos",
