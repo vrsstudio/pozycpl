@@ -30,6 +30,16 @@
     "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
   },
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiomx.png",
+    "company_name": "Fia2",
+    "company_full": "Respuesta rápida",
+    "loan_amount": "hasta 90 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 12 minutos",
+    "badge": "Crédito flexible, fácil y confiable",
+    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
     "company_name": "Finpug",
     "company_full": "100% en línea",
@@ -82,7 +92,7 @@
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/solcreditmx.png",
     "company_name": "Solcredito",
-    "company_full": "Solcredito México",
+    "company_full": "Desde tu celular",
     "loan_amount": "hasta 100 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
@@ -92,7 +102,7 @@
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finmercadomx.png",
     "company_name": "Finmercado",
-    "company_full": "Finmercado México",
+    "company_full": "Sin complicaciones",
     "loan_amount": "hasta 90 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
@@ -102,22 +112,12 @@
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
     "company_name": "Lendio",
-    "company_full": "Lendio México",
+    "company_full": "Solicitud rápida",
     "loan_amount": "hasta 80 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
     "badge": "Sin revisión en buró de crédito",
     "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/F2MX.png",
-    "company_name": "Fia2",
-    "company_full": "Fia2 México",
-    "loan_amount": "hasta 90 000 MXN",
-    "percent": "desde 0.1% mensual",
-    "time": "hasta 12 minutos",
-    "badge": "Crédito flexible, fácil y confiable",
-    "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
   },
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finolomx.png",
