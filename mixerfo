@@ -1,7 +1,17 @@
 [
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/crezu.png",
+    "company_name": "Crezu",
+    "company_full": "Proceso sencillo",
+    "loan_amount": "hasta 89 000 MXN",
+    "percent": "desde 0.0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Avalado por el tiempo",
+    "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/F2MX.png",
-    "company_name": "Finpug",
+    "company_name": "Fia2",
     "company_full": "Disponible 24/7",
     "loan_amount": "hasta 60 000 MXN",
     "percent": "desde 0.1% mensual",
@@ -11,7 +21,7 @@
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/optocreditomx.png",
-    "company_name": "Finpug",
+    "company_name": "OptiCredito",
     "company_full": "Aprobación rápida",
     "loan_amount": "hasta 70 000 MXN",
     "percent": "desde 0.1% mensual",
@@ -21,7 +31,7 @@
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lemonzamx.png",
-    "company_name": "Finpug",
+    "company_name": "Lemonza",
     "company_full": "Proceso sencillo",
     "loan_amount": "hasta 89 000 MXN",
     "percent": "desde 0.1% mensual",
@@ -31,7 +41,7 @@
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiomx.png",
-    "company_name": "Fia2",
+    "company_name": "Creditio",
     "company_full": "Respuesta rápida",
     "loan_amount": "hasta 90 000 MXN",
     "percent": "desde 0.1% mensual",
@@ -48,6 +58,16 @@
     "time": "hasta 25 minutos",
     "badge": "Avalado por el tiempo",
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
+    "company_name": "Lendio",
+    "company_full": "Solicitud rápida",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/amigoslonmxn.png",
@@ -71,7 +91,7 @@
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/letocredit.png",
-    "company_name": "Kueski",
+    "company_name": "Letocredit",
     "company_full": "Solicitud rápida",
     "loan_amount": "hasta 80 000 MXN",
     "percent": "desde 0.1% mensual",
@@ -109,16 +129,7 @@
     "badge": "Sin revisión en buró de crédito",
     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
   },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
-    "company_name": "Lendio",
-    "company_full": "Solicitud rápida",
-    "loan_amount": "hasta 80 000 MXN",
-    "percent": "desde 0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Sin revisión en buró de crédito",
-    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
-  },
+
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finolomx.png",
     "company_name": "Finloo",
