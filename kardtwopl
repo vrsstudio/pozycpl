@@ -1,24 +1,17 @@
-[{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/karta_platinupl.png",
-    "company_name": "Karta Platinum Mastercard",
-    "loan_amount":"от 1 000 до 100 000 zł",
-   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-platinum-mastercard.html"
+[
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiopl.png",
+    "company_name": "Kredyt dopasowany do Ciebie",
+    "loan_amount":"od 12 000 do 50 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1rmv69300053b2c20"
   }
 ,
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/karta_goldpl.png",
-    "company_name": "Karta Gold Mastercard",
-    "loan_amount":"от 1 500 до 200 000 zł",
-   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-gold-mastercard.html"
-  }
-,
-
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/karta_worldpl.png",
-    "company_name": "Karta World Elite Mastercard",
-    "loan_amount":"от 1 000 до 300 000 zł",
-   "url": "https://www.mastercard.pl/pl-pl/klient-indywidualny/produkty/karty-kredytowe-mastercard/karta-world-elite-mastercard.html"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
+    "company_name": "Sprawdź korzystne warunki",
+    "loan_amount":"od 1 000 do 30 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1rbl6884e316d339b"
   }
   
 ]
