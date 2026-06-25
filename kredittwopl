@@ -1,26 +1,27 @@
 [
-
-
 {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credy.lp.png",   
- "company_name":"Pierwsza pożyczka 0,01%",
-"loan_amount": "do 15 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1qb5691b0305628ae"
-},
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/letocredit.png",
+    "company_name": "Gotówka bez zbędnych formalności",
+    "loan_amount":"ot 450 do 20 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1rk16a2842415383b"
+  },
 {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/binixmx.png",   
- "company_name":"Rabat do 90% na pierwszą pożyczkę",
-"loan_amount": "do 12 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1rlp691b030a64d48"
-},
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",   
- "company_name":"Rabat do 90% na pierwszą pożyczkę",
-"loan_amount": "do 10 000 pln",
-"age": "Od 18 lat",
- "url": "https://tds.pdl-profit.com/h/1rbl6884e316d339b"
-}
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credy.lp.png",
+    "company_name": "Szybki kredyt online",
+    "loan_amount":"ot 300 do 10 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1qb5691b0305628ae"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiopl.png",
+    "company_name": "Kredyt na każdą potrzebę",
+    "loan_amount":"ot 1 000 do 100 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1rmv69300053b2c20"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/crezu.png",
+    "company_name": "Wygodny kredyt przez internet",
+    "loan_amount":"ot 300 do 10 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1qfe691b0308b0fa8"
+  }
   
 ]
