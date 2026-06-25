@@ -1,45 +1,48 @@
 [
+
 {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
-   "company_name":"Szybka kasa online!",
- "loan_amount": "do 35 000 pln",
-"age": "Od 18 lat",
+   "company_name":"Pierwsza pożyczka 0%",
+ "loan_amount": "do 50 000 pln",
+"age": "od 18 lat",
  "url": "https://tds.pdl-profit.com/h/1rbl6884e316d339b"
 },
-{
+ {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiopl.png",   
- "company_name":"Pierwsza pożyczka 0,01%",
-"loan_amount": "do 19 000 pln",
-"age": "Od 18 lat",
+ "company_name":"Pożyczki w 5 minut.",
+"loan_amount": "do 50 000 pln",
+"age": "od 18 lat",
  "url": "https://tds.pdl-profit.com/h/1rmv69300053b2c20"
-}
-,
-{
+},
+ {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credy.lp.png",   
- "company_name":"Pieniądze przed wypłatą w 15 minut",
-"loan_amount": "do 40 000 pln",
-"age": "Od 18 lat",
+ "company_name":"Pożyczka bez wychodzenia z domu",
+"loan_amount": "do 30 000 pln",
+"age": "od 18 lat",
  "url": "https://tds.pdl-profit.com/h/1qb5691b0305628ae"
 },
 {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/binixmx.png",   
- "company_name":"Dobre warunki kredytowe",
+ "company_name":"Bez ukrytych warunków",
 "loan_amount": "do 25 000 pln",
-"age": "Od 18 lat",
+"age": "od 18 lat",
  "url": "https://tds.pdl-profit.com/h/1rlp691b030a64d48"
 },
-{
+ {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditnacepl.png",   
- "company_name":"Dobre warunki kredytowe",
-"loan_amount": "do 15 000 pln",
-"age": "Od 18 lat",
+ "company_name":"Prosty wniosek online",
+"loan_amount": "do 37 000 pln",
+"age": "od 18 lat",
  "url": "https://tds.pdl-profit.com/h/1rtn6a284143975f6"
 },
-{
+ {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/letocredit.png",   
- "company_name":"Dobre warunki kredytowe",
-"loan_amount": "do 15 000 pln",
-"age": "Od 18 lat",
+ "company_name":"Szybka gotówka online",
+"loan_amount": "do 45 000 pln",
+"age": "od 18 lat",
  "url": "https://tds.pdl-profit.com/h/1rk16a2842415383b"
 }
+
+    
+
 ]
