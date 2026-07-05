@@ -9,24 +9,6 @@
     "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
-    "name": "Opciones rápidas para salir del apuro",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 90 000 mxn",
-    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
-    "name": "Crédito rápido sin papeleo",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 19 000 $",
-    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
-  },
-{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
     "name": "Tu préstamo aprobado en minutos",
     "rating": 5,
@@ -45,6 +27,43 @@
     "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
   },
 {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+    "name": "Crédito rápido sin papeleo",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 19 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
+    "name": "Dinero para cualquier necesidad",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 90 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+  },
+
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
+    "name": "Crédito rápido y sencillo",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 50 000 $",
+    "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+    "name": "Dinero rápido cuando lo necesitas",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 500 a 25 000 $",
+    "odobrenie": "Alta",
+    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
+  },
+{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
     "name": "Haz tu solicitud en línea ya",
     "rating": 5,
@@ -54,32 +73,22 @@
     "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
-    "name": "Proceso seguro y sin comisiones ocultas",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 50 000 $",
-    "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/plamigo.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/pezetitamx.png",
     "name": "Montos flexibles desde $1,000 hasta $50,000 MXN",
     "rating": 5,
     "age": "desde 18 años",
     "sum_one": "de 1 000 a 45 000 mxn",
     "odobrenie": "Alta",
-    "url": "https://tds.pdl-profit.com/h/1s216a43c329f3efa"
+    "url": "https://tds.pdl-profit.com/h/1qdr6891ae7b84be4"
   },
-
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
-    "name": "Dinero rápido cuando lo necesitas",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
+    "name": "Resuelve hoy, paga después",
     "rating": 5,
     "age": "desde 18 años",
-    "sum_one": "de 1 500 a 25 000 $",
+    "sum_one": "de 1 000 a 45 000 mxn",
     "odobrenie": "Alta",
-    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
+    "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
   }
 
 ]
