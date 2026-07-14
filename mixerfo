@@ -1,15 +1,5 @@
 [
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/crezu.png",
-    "company_name": "Crezu",
-    "company_full": "Proceso sencillo",
-    "loan_amount": "hasta 89 000 MXN",
-    "percent": "desde 0.0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Avalado por el tiempo",
-    "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
-  },
-{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/F2MX.png",
     "company_name": "Fia2",
     "company_full": "Disponible 24/7",
@@ -20,26 +10,6 @@
     "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
-    "company_name": "Lendio",
-    "company_full": "Solicitud rápida",
-    "loan_amount": "hasta 80 000 MXN",
-    "percent": "desde 0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Sin revisión en buró de crédito",
-    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/andacredito.png",
-    "company_name": "OptiCredito",
-    "company_full": "Aprobación rápida",
-    "loan_amount": "hasta 70 000 MXN",
-    "percent": "desde 0.1% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Avalado por el tiempo",
-    "url": "https://tds.pdl-profit.com/h/1rbi688609ef3a2be"
-  },
-{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lemonzamx.png",
     "company_name": "Lemonza",
     "company_full": "Proceso sencillo",
@@ -48,6 +18,27 @@
     "time": "hasta 15 minutos",
     "badge": "Avalado por el tiempo",
     "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/crezu.png",
+    "company_name": "Crezu",
+    "company_full": "Proceso sencillo",
+    "loan_amount": "hasta 89 000 MXN",
+    "percent": "desde 0.0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Avalado por el tiempo",
+    "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
+  },
+
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
+    "company_name": "Lendio",
+    "company_full": "Solicitud rápida",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiomx.png",
@@ -88,16 +79,6 @@
     "time": "hasta 25 minutos",
     "badge": "Avalado por el tiempo",
     "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/fiestamx.png",
-    "company_name": "Fiesta Crédito",
-    "company_full": "Fiesta Crédito México",
-    "loan_amount": "hasta 150 000 MXN",
-    "percent": "desde 0% mensual",
-    "time": "hasta 7 minutos",
-    "badge": "Dinero al instante en tu tarjeta",
-    "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/letocredit.png",
