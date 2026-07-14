@@ -44,6 +44,15 @@
     "sum_one": "de 1 000 a 90 000 mxn",
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
+    "name": "Resuelve hoy, paga después",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 000 a 51 000 $",
+    "odobrenie": "Alta",
+    "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
+  },
 
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
@@ -59,7 +68,7 @@
     "name": "Dinero rápido cuando lo necesitas",
     "rating": 5,
     "age": "desde 18 años",
-    "sum_one": "de 1 500 a 25 000 $",
+    "sum_one": "de 1 500 a 35 000 $",
     "odobrenie": "Alta",
     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
   },
@@ -73,22 +82,14 @@
     "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/pezetitamx.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
     "name": "Montos flexibles desde $1,000 hasta $50,000 MXN",
     "rating": 5,
     "age": "desde 18 años",
-    "sum_one": "de 1 000 a 45 000 mxn",
+    "sum_one": "de 1 000 a 45 000 $",
     "odobrenie": "Alta",
-    "url": "https://tds.pdl-profit.com/h/1qdr6891ae7b84be4"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
-    "name": "Resuelve hoy, paga después",
-    "rating": 5,
-    "age": "desde 18 años",
-    "sum_one": "de 1 000 a 45 000 mxn",
-    "odobrenie": "Alta",
-    "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
+    "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
   }
+
 
 ]
