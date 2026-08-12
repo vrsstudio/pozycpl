@@ -45,16 +45,6 @@
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
-    "name": "Resuelve hoy, paga después",
-    "rating": 5,
-    "age": "desde 18 años",
-    "sum_one": "de 1 000 a 51 000 $",
-    "odobrenie": "Alta",
-    "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
-  },
-
-{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
     "name": "Crédito rápido y sencillo",
     "rating": 5,
@@ -73,13 +63,22 @@
     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
-    "name": "Haz tu solicitud en línea ya",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
+    "name": "Resuelve hoy, paga después",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 000 a 51 000 $",
+    "odobrenie": "Alta",
+    "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "name": "Tu solicitud lista en pocos minutos",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 90 000 mxn",
-    "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+    "sum_one": "de 1 000 a 150 000 $",
+    "url": "https://track-pdlp.com/h/1r306891ae80d592a"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
@@ -89,6 +88,25 @@
     "sum_one": "de 1 000 a 45 000 $",
     "odobrenie": "Alta",
     "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
+    "name": "Solicita tu préstamo en 5 minutos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 15 000 $",
+    "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
+  },
+
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
+    "name": "Haz tu solicitud en línea ya",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 90 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
   }
 
 
