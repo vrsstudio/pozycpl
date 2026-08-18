@@ -1,43 +1,33 @@
 [
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/F2MX.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lemonzamx.png",
     "company_name": "Fia2",
     "company_full": "Disponible 24/7",
     "loan_amount": "hasta 60 000 MXN",
     "percent": "desde 0.1% mensual",
     "time": "hasta 7 minutos",
     "badge": "Dinero para cualquier propósito",
-    "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
+    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lemonzamx.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
     "company_name": "Lemonza",
     "company_full": "Proceso sencillo",
     "loan_amount": "hasta 89 000 MXN",
     "percent": "desde 0.1% mensual",
     "time": "hasta 15 minutos",
     "badge": "Tu préstamo aprobado en minutos",
-    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
-    "company_name": "Lendio",
-    "company_full": "Solicitud rápida",
-    "loan_amount": "hasta 80 000 MXN",
-    "percent": "desde 0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Sin revisión en buró de crédito",
     "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finmercadomx.png",
-    "company_name": "Finmercado",
-    "company_full": "Sin complicaciones",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiomx.png",
+    "company_name": "Creditio",
+    "company_full": "Respuesta rápida",
     "loan_amount": "hasta 90 000 MXN",
-    "percent": "desde 0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Sin revisión en buró de crédito",
-    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 12 minutos",
+    "badge": "Crédito flexible, fácil y confiable",
+    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
@@ -50,6 +40,27 @@
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimoomx.png",
+    "company_name": "Lendio",
+    "company_full": "Solicitud rápida",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finmercadomx.png",
+    "company_name": "Finmercado",
+    "company_full": "Sin complicaciones",
+    "loan_amount": "hasta 90 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
+  },
+
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/crezu.png",
     "company_name": "Crezu",
     "company_full": "Proceso sencillo",
@@ -60,27 +71,15 @@
     "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
   },
 
-
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiomx.png",
-    "company_name": "Creditio",
-    "company_full": "Respuesta rápida",
-    "loan_amount": "hasta 90 000 MXN",
-    "percent": "desde 0.1% mensual",
-    "time": "hasta 12 minutos",
-    "badge": "Crédito flexible, fácil y confiable",
-    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
-  },
-
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/fiestamx.png",
     "company_name": "Lendio",
     "company_full": "Solicitud rápida",
     "loan_amount": "hasta 80 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
     "badge": "Sin revisión en buró de crédito",
-    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
+    "url": "https://track-pdlp.com/h/1r306891ae80d592a"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/amigoslonmxn.png",
