@@ -9,24 +9,6 @@
     "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
-    "name": "Tu préstamo aprobado en minutos",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 50 000 $",
-    "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
-    "name": "Dinero al instante en tu tarjeta",
-    "rating": 5,
-    "age": "desde 18 años",
-    "sum_one": "de 1 500 a 30 000 $",
-    "odobrenie": "Alta",
-    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
-  },
-{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
     "name": "Solicita tu préstamo en 5 minutos",
     "rating": 5,
@@ -34,6 +16,15 @@
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 15 000 $",
     "url": "https://track-pdlp.com/h/1qd668860ad3170b1"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
+    "name": "Tu préstamo aprobado en minutos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 50 000 $",
+    "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
@@ -45,6 +36,15 @@
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
+    "name": "Dinero al instante en tu tarjeta",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 500 a 30 000 $",
+    "odobrenie": "Alta",
+    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
+  },
+{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
     "name": "Tu solicitud lista en pocos minutos",
     "rating": 5,
@@ -54,13 +54,22 @@
     "url": "https://track-pdlp.com/h/1r306891ae80d592a"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditifymx.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnicemx.png",
     "name": "Resuelve hoy, paga después",
     "rating": 5,
     "age": "desde 18 años",
     "sum_one": "de 1 000 a 51 000 $",
     "odobrenie": "Alta",
-    "url": "https://track-pdlp.com/h/1qrp68860a8932135"
+    "url": "https://track-pdlp.com/h/1qpt68860acb2cf74"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finteresmx.png",
+    "name": "Haz tu solicitud en línea ya",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 90 000 mxn",
+    "url": "https://track-pdlp.com/h/1qbj6891ae7bc6d92"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
