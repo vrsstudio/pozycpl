@@ -10,16 +10,6 @@
     "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimoomx.png",
-    "company_name": "Lendio",
-    "company_full": "Solicitud rápida",
-    "loan_amount": "hasta 80 000 MXN",
-    "percent": "desde 0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Sin revisión en buró de crédito",
-    "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
-  },
-{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/binixmx.png",
     "company_name": "Solcredito",
     "company_full": "Desde tu celular",
@@ -28,6 +18,16 @@
     "time": "hasta 5 minutos",
     "badge": "Crédito rápido sin papeleo",
     "url": "https://track-pdlp.com/h/1qd668860ad3170b1"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimoomx.png",
+    "company_name": "Lendio",
+    "company_full": "Solicitud rápida",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiomx.png",
@@ -60,6 +60,16 @@
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/amigoslonmxn.png",
+    "company_name": "Amigoloans",
+    "company_full": "Sin filas",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Crédito rápido sin papeleo",
+    "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finmercadomx.png",
     "company_name": "Finmercado",
     "company_full": "Sin complicaciones",
@@ -71,44 +81,24 @@
   },
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/crezu.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credymx.png",
     "company_name": "Crezu",
     "company_full": "Proceso sencillo",
     "loan_amount": "hasta 89 000 MXN",
     "percent": "desde 0.0% mensual",
     "time": "hasta 5 minutos",
     "badge": "Tu solicitud lista en pocos minutos",
-    "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
+    "url": "https://track-pdlp.com/h/1q0l6891ae7a41e1b"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/amigoslonmxn.png",
-    "company_name": "Amigoloans",
-    "company_full": "Sin filas",
-    "loan_amount": "hasta 80 000 MXN",
-    "percent": "desde 0.1% mensual",
-    "time": "hasta 25 minutos",
-    "badge": "Crédito rápido sin papeleo",
-    "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditifymx.png",
-    "company_name": "Letocredit",
-    "company_full": "Solicitud rápida",
-    "loan_amount": "hasta 80 000 MXN",
-    "percent": "desde 0.1% mensual",
-    "time": "hasta 25 minutos",
-    "badge": "Crédito flexible, fácil y confiable",
-    "url": "https://track-pdlp.com/h/1qrp68860a8932135"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/andacredito.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditnicemx.png",
     "company_name": "Loaney",
     "company_full": "Loaney México",
     "loan_amount": "hasta 40 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 5 minutos",
     "badge": "Sin revisión en buró de crédito",
-    "url": "https://track-pdlp.com/h/1pv76891ae78dd7ed"
+    "url": "https://track-pdlp.com/h/1qpt68860acb2cf74"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
@@ -120,15 +110,25 @@
     "badge": "Tu préstamo aprobado en minutos",
     "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
   },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditifymx.png",
+    "company_name": "Letocredit",
+    "company_full": "Solicitud rápida",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Crédito flexible, fácil y confiable",
+    "url": "https://track-pdlp.com/h/1qrp68860a8932135"
+  },
  {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finolomx.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/moneymarketmx.png",
     "company_name": "Finloo",
     "company_full": "Finloo Crédito México",
     "loan_amount": "hasta 96 000 MXN",
     "percent": "desde 0% mensual",
     "time": "hasta 7 minutos",
     "badge": "Sin comprobante de ingresos",
-    "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
+    "url": "https://track-pdlp.com/h/1rab6891ae808c54a"
   }
 
 
