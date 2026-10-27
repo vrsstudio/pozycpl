@@ -10,6 +10,16 @@
     "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
   },
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
+    "company_name": "Finpug",
+    "company_full": "100% en línea",
+    "loan_amount": "hasta 60 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Dinero al instante en tu tarjeta",
+    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/binixmx.png",
     "company_name": "Solcredito",
     "company_full": "Desde tu celular",
@@ -50,16 +60,6 @@
     "url": "https://track-pdlp.com/h/1r306891ae80d592a"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
-    "company_name": "Finpug",
-    "company_full": "100% en línea",
-    "loan_amount": "hasta 60 000 MXN",
-    "percent": "desde 0.1% mensual",
-    "time": "hasta 25 minutos",
-    "badge": "Dinero al instante en tu tarjeta",
-    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
-  },
-{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/amigoslonmxn.png",
     "company_name": "Amigoloans",
     "company_full": "Sin filas",
@@ -78,17 +78,6 @@
     "time": "hasta 5 minutos",
     "badge": "Sin revisión en buró de crédito",
     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
-  },
-
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credymx.png",
-    "company_name": "Crezu",
-    "company_full": "Proceso sencillo",
-    "loan_amount": "hasta 89 000 MXN",
-    "percent": "desde 0.0% mensual",
-    "time": "hasta 5 minutos",
-    "badge": "Tu solicitud lista en pocos minutos",
-    "url": "https://track-pdlp.com/h/1q0l6891ae7a41e1b"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditnicemx.png",
