@@ -5,8 +5,8 @@
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 54 000 mxn",
-    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
+    "sum_one": "de 1 000 a 52 000 mxn",
+    "url": "https://track-pdlp.com/h/1ro96958e436cbd54?subid=mx2"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
@@ -15,7 +15,7 @@
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 15 000 $",
-    "url": "https://track-pdlp.com/h/1qd668860ad3170b1"
+    "url": "https://track-pdlp.com/h/1qd668860ad3170b1?subid=mx2"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
@@ -24,7 +24,7 @@
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 19 000 $",
-    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+    "url": "https://track-pdlp.com/h/1r0a688d303ee60a9?subid=mx2"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
@@ -33,7 +33,7 @@
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 50 000 $",
-    "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
+    "url": "https://track-pdlp.com/h/1qqb68860a98229aa?subid=mx2"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
@@ -42,7 +42,16 @@
     "age": "desde 18 años",
     "sum_one": "de 1 500 a 30 000 $",
     "odobrenie": "Alta",
-    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
+    "url": "https://track-pdlp.com/h/1rf26a0f0233ad855?subid=mx2"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpaymx.png",
+    "name": "Montos flexibles desde $1,000 hasta $50,000 MXN",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 000 a 45 000 $",
+    "odobrenie": "Alta",
+    "url": "https://track-pdlp.com/h/1s6f6ae391c7dae98?subid=mx2"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
@@ -51,16 +60,7 @@
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 150 000 $",
-    "url": "https://track-pdlp.com/h/1r306891ae80d592a"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
-    "name": "Montos flexibles desde $1,000 hasta $50,000 MXN",
-    "rating": 5,
-    "age": "desde 18 años",
-    "sum_one": "de 1 000 a 45 000 $",
-    "odobrenie": "Alta",
-    "url": "https://track-pdlp.com/h/1rab6891ae808c54a"
+    "url": "https://track-pdlp.com/h/1r306891ae80d592a?subid=mx2"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnicemx.png",
@@ -69,7 +69,7 @@
     "age": "desde 18 años",
     "sum_one": "de 1 000 a 51 000 $",
     "odobrenie": "Alta",
-    "url": "https://track-pdlp.com/h/1qpt68860acb2cf74"
+    "url": "https://track-pdlp.com/h/1qpt68860acb2cf74?subid=mx2"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
@@ -78,7 +78,7 @@
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 90 000 mxn",
-    "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+    "url": "https://track-pdlp.com/h/1qne6891ae7ca7b77?subid=mx2"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
@@ -87,7 +87,7 @@
     "age": "desde 18 años",
     "sum_one": "de 1 500 a 35 000 $",
     "odobrenie": "Alta",
-    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
+    "url": "https://track-pdlp.com/h/1rc1688609e1d6839?subid=mx2"
   }
 
 
