@@ -1,42 +1,125 @@
 [
-  {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bbvacols.png",
-    "company_name": "BBVA",
-    "company_full": "Préstamos personales BBVA",
-    "loan_amount": "hasta 120 000 MXN",
-    "percent": "No especificado",
-    "time": "No especificado",
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lemonzamx.png",
+    "company_name": "Lemonza",
+    "company_full": "Disponible 24/7",
+    "loan_amount": "hasta 60 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 7 minutos",
     "badge": "Dinero para cualquier propósito",
-    "url": "https://www.bbva.mx/personas/productos/creditos/prestamos-personales/adelanto-de-sueldo.html"
+    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
   },
-  {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
-    "company_name": "Banamex",
-    "company_full": "Crédito Personal Banamex",
-    "loan_amount": "hasta 15 000 MXN",
-    "percent": "No especificado",
-    "time": "No especificado",
-    "badge": "Solicita tu préstamo en línea",
-    "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
+    "company_name": "Finpug",
+    "company_full": "100% en línea",
+    "loan_amount": "hasta 60 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Dinero al instante en tu tarjeta",
+    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
-  {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
-    "company_name": "HSBC",
-    "company_full": "Crédito de Nómina HSBC",
-    "loan_amount": "hasta 36 000 MXN",
-    "percent": "No especificado",
-    "time": "No especificado",
-    "badge": "Consulta las opciones de crédito",
-    "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/binixmx.png",
+    "company_name": "Solcredito",
+    "company_full": "Desde tu celular",
+    "loan_amount": "hasta 100 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Crédito rápido sin papeleo",
+    "url": "https://track-pdlp.com/h/1qd668860ad3170b1"
   },
-  {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
-    "company_name": "Santander",
-    "company_full": "Créditos Personales Santander",
-    "loan_amount": "hasta 24 000 MXN",
-    "percent": "No especificado",
-    "time": "No especificado",
-    "badge": "Conoce las opciones de financiamiento",
-    "url": "https://www.santander.com.mx/personas/creditos-personales.html"
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimoomx.png",
+    "company_name": "Lendio",
+    "company_full": "Solicitud rápida",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiomx.png",
+    "company_name": "Creditio",
+    "company_full": "Respuesta rápida",
+    "loan_amount": "hasta 90 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 12 minutos",
+    "badge": "Crédito flexible, fácil y confiable",
+    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/fiestamx.png",
+    "company_name": "Lendio",
+    "company_full": "Solicitud rápida",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://track-pdlp.com/h/1r306891ae80d592a"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/amigoslonmxn.png",
+    "company_name": "Amigoloans",
+    "company_full": "Sin filas",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Crédito rápido sin papeleo",
+    "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finmercadomx.png",
+    "company_name": "Finmercado",
+    "company_full": "Sin complicaciones",
+    "loan_amount": "hasta 90 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditnicemx.png",
+    "company_name": "Loaney",
+    "company_full": "Loaney México",
+    "loan_amount": "hasta 40 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 5 minutos",
+    "badge": "Sin revisión en buró de crédito",
+    "url": "https://track-pdlp.com/h/1qpt68860acb2cf74"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lendinomx.png",
+    "company_name": "Lemonza",
+    "company_full": "Proceso sencillo",
+    "loan_amount": "hasta 89 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 15 minutos",
+    "badge": "Tu préstamo aprobado en minutos",
+    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditifymx.png",
+    "company_name": "Letocredit",
+    "company_full": "Solicitud rápida",
+    "loan_amount": "hasta 80 000 MXN",
+    "percent": "desde 0.1% mensual",
+    "time": "hasta 25 minutos",
+    "badge": "Crédito flexible, fácil y confiable",
+    "url": "https://track-pdlp.com/h/1qrp68860a8932135"
+  },
+ {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/moneymarketmx.png",
+    "company_name": "Finloo",
+    "company_full": "Finloo Crédito México",
+    "loan_amount": "hasta 96 000 MXN",
+    "percent": "desde 0% mensual",
+    "time": "hasta 7 minutos",
+    "badge": "Sin comprobante de ingresos",
+    "url": "https://track-pdlp.com/h/1rab6891ae808c54a"
   }
+
+
+
 ]
